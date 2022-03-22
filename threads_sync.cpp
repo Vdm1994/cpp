@@ -1,3 +1,4 @@
+// g++ threads_sync.cpp -lpthread
 #include <iostream>
 #include <thread>
 #include <mutex>
